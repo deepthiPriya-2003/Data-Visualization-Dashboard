@@ -1,0 +1,31 @@
+.signIn-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    background-size: cover;
+
+}
+.input-container{
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+.input-element{
+    margin-top:5px;
+    margin-bottom:25px;
+    padding:7px;
+    width:250px;
+    border-width:2px;
+} 
+
+.submit-btn{
+    background-color: blue;
+    padding:10px;
+    border-width:0px;
+    border-radius: 5px;
+    color:#ffffff;
+}
